@@ -45,7 +45,7 @@ This project implements CRUD (Create, Read, Update, Delete) APIs for managing pr
 
 API Endpoints
 
-1. Create a Product
+1. **Create a Product
 Endpoint: /api/products
 Method: POST
 Request Payload:
@@ -58,11 +58,11 @@ json
   "productDescription": "Product description goes here"
 }
 
-2. Fetch a Product by ID
+2. **Fetch a Product by ID
 Endpoint: /api/products/:productId
 Method: GET
 
-4. Fetch All Products with Filters and Pagination
+4. **Fetch All Products with Filters and Pagination
 Endpoint: /api/products
 Method: GET
   Query Parameters:
@@ -71,7 +71,7 @@ Method: GET
     productName (optional): Filter by product name.
     category (optional): Filter by product category.
    
-5. Delete a Product by ID
+5. **Delete a Product by ID
   Endpoint: /api/products/:productId
   Method: DELETE   
 
