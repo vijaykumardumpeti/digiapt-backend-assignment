@@ -43,10 +43,7 @@ This project implements CRUD (Create, Read, Update, Delete) APIs for managing pr
 
 
 
-Install dependencies:
-
-  bash
-  Copy code
+#Install dependencies:
   npm install
 
 API Endpoints
