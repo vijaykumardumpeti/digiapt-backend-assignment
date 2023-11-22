@@ -16,8 +16,6 @@ This project implements CRUD (Create, Read, Update, Delete) APIs for managing pr
   - [Fetch a Product by ID](#2-fetch-a-product-by-id)
   - [Fetch All Products with Filters and Pagination](#3-fetch-all-products-with-filters-and-pagination)
   - [Delete a Product by ID](#4-delete-a-product-by-id)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
