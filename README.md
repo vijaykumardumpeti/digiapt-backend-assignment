@@ -1,7 +1,5 @@
 # digiapt-backend-assignment
 
-# NodeJS CRUD APIs for Products
-
 This project implements CRUD (Create, Read, Update, Delete) APIs for managing products. It provides endpoints to create, retrieve, update, and delete products with additional features like filtering and pagination.
 
 ## Table of Contents
