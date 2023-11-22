@@ -38,6 +38,39 @@ This project implements CRUD (Create, Read, Update, Delete) APIs for managing pr
 
 1. Clone this repository:
 
-   ```bash
    git clone (https://github.com/vijaykumardumpeti/digiapt-backend-assignment.git)https://github.com/vijaykumardumpeti/digiapt-backend-assignment.git
    cd digiapt-backend-assignment
+
+API Endpoints
+
+1. Create a Product
+Endpoint: /api/products
+Method: POST
+Request Payload:
+json
+
+{
+  "productName": "Product Name",
+  "productCategory": "Electronics",
+  "imageUrl": "https://example.com/image.jpg",
+  "productDescription": "Product description goes here"
+}
+
+2. Fetch a Product by ID
+Endpoint: /api/products/:productId
+Method: GET
+
+4. Fetch All Products with Filters and Pagination
+Endpoint: /api/products
+Method: GET
+  Query Parameters:
+    page (optional): Page number for pagination.
+    pageSize (optional): Number of products per page.
+    productName (optional): Filter by product name.
+    category (optional): Filter by product category.
+   
+5. Delete a Product by ID
+  Endpoint: /api/products/:productId
+  Method: DELETE   
+
+   
