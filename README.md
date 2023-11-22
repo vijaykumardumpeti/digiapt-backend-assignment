@@ -51,12 +51,12 @@ Method: POST
 Request Payload:
 json
 
-{
-  "productName": "Product Name",
-  "productCategory": "Electronics",
-  "imageUrl": "https://example.com/image.jpg",
-  "productDescription": "Product description goes here"
-}
+**{
+  **"productName": "Product Name",
+  **"productCategory": "Electronics",
+  **"imageUrl": "https://example.com/image.jpg",
+  **"productDescription": "Product description goes here"
+**}
 
 2. **Fetch a Product by ID
 Endpoint: /api/products/:productId
