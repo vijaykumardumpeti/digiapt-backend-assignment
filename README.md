@@ -39,5 +39,5 @@ This project implements CRUD (Create, Read, Update, Delete) APIs for managing pr
 1. Clone this repository:
 
    ```bash
-   git clone [https://github.com/your-username/nodejs-crud-products.git](https://github.com/vijaykumardumpeti/digiapt-backend-assignment.git)https://github.com/vijaykumardumpeti/digiapt-backend-assignment.git
+   git clone [https://github.com/vijaykumardumpeti/digiapt-backend-assignment.git)https://github.com/vijaykumardumpeti/digiapt-backend-assignment.git](https://github.com/vijaykumardumpeti/digiapt-backend-assignment.git)https://github.com/vijaykumardumpeti/digiapt-backend-assignment.git
    cd digiapt-backend-assignment
