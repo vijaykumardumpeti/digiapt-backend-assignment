@@ -17,7 +17,7 @@ This project implements CRUD (Create, Read, Update, Delete) APIs for managing pr
 
 ## Features
 
-1. **Create a Product API**: Create a new product with details such as id, product name, product category, image URL, and product description.
+1. **Create a Product API**: Create a new product https://github.com/vijaykumardumpeti/digiapt-backend-assignment/edit/master/README.mdwith details such as id, product name, product category, image URL, and product description.
 
 2. **Fetch a Product by ID API**: Retrieve a product by its unique identifier (id).
 
@@ -43,7 +43,7 @@ This project implements CRUD (Create, Read, Update, Delete) APIs for managing pr
 
 
 
-#Install dependencies:
+## Install dependencies:
   npm install
 
 API Endpoints
