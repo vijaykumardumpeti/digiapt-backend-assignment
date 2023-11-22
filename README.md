@@ -46,7 +46,7 @@ This project implements CRUD (Create, Read, Update, Delete) APIs for managing pr
 ## Install dependencies:
   npm install
 
-API Endpoints
+## API Endpoints
 
 1. **Create a Product
 Endpoint: /api/products
