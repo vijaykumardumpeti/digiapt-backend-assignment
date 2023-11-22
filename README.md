@@ -41,6 +41,14 @@ This project implements CRUD (Create, Read, Update, Delete) APIs for managing pr
    git clone (https://github.com/vijaykumardumpeti/digiapt-backend-assignment.git)https://github.com/vijaykumardumpeti/digiapt-backend-assignment.git
    cd digiapt-backend-assignment
 
+
+
+Install dependencies:
+
+  bash
+  Copy code
+  npm install
+
 API Endpoints
 
 1. **Create a Product
